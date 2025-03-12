@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smalc/DataspellProjects/regression_aufgabe/mlruns/774724030803643220/93570f6f23494b3aa2cf906847fcb7e8/artifacts
+end_time: 1741810356166
+entry_point_name: ''
+experiment_id: '774724030803643220'
+lifecycle_stage: active
+run_id: 93570f6f23494b3aa2cf906847fcb7e8
+run_name: dt_experiment
+run_uuid: 93570f6f23494b3aa2cf906847fcb7e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741810343375
+status: 3
+tags: []
+user_id: smalc
